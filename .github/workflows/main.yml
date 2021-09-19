@@ -14,3 +14,4 @@ jobs:
         server: files.000webhost.com
         username: vaccinedrive
         password: ${{ secrets.FTP_PASSWORD }}
+        server-dir: public_html/
